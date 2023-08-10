@@ -1,0 +1,71 @@
+.card-side-img{
+    width: 100%;
+}
+.author-img{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.author-name span{
+    color: #000;
+    font-size: 15px;
+    font-weight: 500;
+    padding-left: 10px;
+}
+.blog-title{
+    font-size: 25px;
+    font-weight: 700;
+    color: #000;
+}
+.blog-title:hover{
+    text-decoration: none;
+    color: #000;
+}
+.blog-short-desc{
+    font-size: 20px;
+    padding: 5px 0;
+    line-height: 25px;
+}
+.sn-card-container .card{
+    border: none;
+}
+.date-time{
+    color: #00000070;
+    display: block;
+}
+.dot-center{
+    display: inline-block;
+}
+.cat-btn{
+    background-color: #00000070;
+    color: #fff;
+    padding: 5px 10px;
+    display: inline-block;
+    margin: 2px;
+    border-radius: 10px;
+}
+.cat-btn:hover{
+    background-color: #000;
+    color: #fff;
+    text-decoration: none;
+}
+.top-title{
+    font-size: 30px;
+    font-weight: 700;
+    border-bottom: solid 2px #000;
+    margin-bottom: 20px;
+    padding-top: 15px;
+}
+.carousel-item img{
+    width: 100%;
+}
+.sticky-top-side{
+    position: sticky;
+    top: 0;
+}
+.footer{
+    text-align: center;
+    padding: 10px;
+    background-color: #000;
+    color: white;
+}
